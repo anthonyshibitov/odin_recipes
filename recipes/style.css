@@ -8,3 +8,8 @@ p {
 h3, h4 {
     color: blueviolet;
 }
+
+img {
+    height: 200px;
+    width: auto;
+}
